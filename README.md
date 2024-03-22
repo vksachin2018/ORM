@@ -45,8 +45,8 @@ class railwayAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-03-19 at 09 16 45_0f1718bc](https://github.com/vksachin2018/ORM/assets/149366019/9d33a533-bf3d-4ee1-a18a-4d7f14a06fa6)
 
+![WhatsApp Image 2024-03-22 at 07 39 10_589391a2](https://github.com/vksachin2018/ORM/assets/149366019/5f14cda7-fc89-4bb2-815a-1503aa599ee8)
 
 
 
